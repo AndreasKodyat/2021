@@ -1,0 +1,8 @@
+ANTM Above ichimoku, declining vol acc.
+	*ASII BELOW ichimoku, declining vol acc.
+ASSA Above ichimoku, increasing vol acc.
+	*BBCA BELOW ichimoku, declining vol acc.
+HRUM Above ichimoku, increasing vol acc.
+ISAT Above ichimoku, increasing vol acc.
+TINS Above ichimoku, increasing vol acc.
+	*TLKM BELOW ichimoku, declining vol acc.
